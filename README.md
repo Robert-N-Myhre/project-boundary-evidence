@@ -9,6 +9,8 @@ Boundary used infrastructure automation as a proving ground for two questions:
 
 The public [Project Boundary case study](https://robert-n-myhre.github.io/architecture-portfolio/projects/project-boundary/) explains the architecture story. This repository serves a narrower purpose: it publishes selected contemporaneous decisions, raw prototype artifacts, and executable tests that support important claims in that story.
 
+The reusable architecture distilled from the same research is published separately as [Project Sentinel — Governed Agentic Infrastructure Operations](https://robert-n-myhre.github.io/architecture-portfolio/reference-architectures/governed-agentic-infrastructure-operations/).
+
 It is **not** the original engineering repository, a production automation platform, or a complete reproduction kit. The private project accumulated implementation history, experiments, operational scaffolding, and forensic records that would add volume without improving independent review of the architecture.
 
 ## Start here
